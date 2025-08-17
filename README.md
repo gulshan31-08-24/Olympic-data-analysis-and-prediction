@@ -65,6 +65,16 @@ The project consists of:
 - Pickle / Joblib → Model serialization
 
 ---
+## 🛠️ Tools Used
+- **Python** → Core programming language for analysis and model building
+- **Jupyter Notebook / VS Code** → Development and experimentation environment
+- **Pandas & NumPy** → Data cleaning, manipulation, and numerical computations
+- **Matplotlib & Seaborn** → Data visualization and trend analysis
+- **Scikit-learn** → Machine learning model building and evaluation
+- **Streamlit** → Web application framework for interactive dashboards
+- **Git & GitHub** → Version control and project hosting
+
+---
 ## 📈 Features
 - **Medal Tally** → View medal counts by year, country, or overall
 - **Medal Predictor** → Predict the probability of an athlete winning a medal
