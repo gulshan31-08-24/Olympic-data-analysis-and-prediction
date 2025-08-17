@@ -27,16 +27,13 @@ The project consists of:
 ---
 ## ⚙️ How to Run the Project
 
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/yourusername/olympic-data-analysis.git
-   cd olympic-data-analysis
-2.**Install Dependencies**
+1.**Clone the Repository**
+   `git clone https://github.com/yourusername/olympic-data-analysis.git`
 
-3.**Run the Streamlit App**
+2.**Run the Streamlit App**
   `streamlit run app.py`
     
-4.**Open in Browser**
+3.**Open in Browser**
  `http://localhost:8501/`
 
 
